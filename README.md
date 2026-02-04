@@ -87,11 +87,4 @@ chmod +x *.sh
 
 ```
 
-## Contributing
-If you'd like to contribute to this project, please open an **issue** or submit a **pull request**.
-Give it a **Star** if you liked it!
 
-## Contributer
-<a href = "https://thatdevopsengineer.com/">
-  <img src = "https://contrib.rocks/image?repo=thatdevopsengineer/daily-devops-scripts"/>
-</a>
